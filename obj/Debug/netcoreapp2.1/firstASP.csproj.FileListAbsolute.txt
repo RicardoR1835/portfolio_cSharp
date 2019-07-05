@@ -12,3 +12,14 @@
 /Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.RazorTargetAssemblyInfo.cache
 /Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.dll
 /Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.pdb
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.Views.dll
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.Views.pdb
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.TagHelpers.input.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.TagHelpers.output.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.RazorCoreGenerate.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.RazorTargetAssemblyInfo.cs
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.Views.pdb
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.csproj.CopyComplete
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/Razor/Views/Home/Projects.g.cshtml.cs

@@ -27,6 +27,7 @@ namespace firstASP
             }
 
             app.UseMvc();
+            app.UseStaticFiles();
         }
     }
 }
