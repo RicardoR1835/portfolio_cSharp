@@ -1,0 +1,14 @@
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.deps.json
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.runtimeconfig.json
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.dll
+/Users/ricardorivera/cSharp/firstASP/bin/Debug/netcoreapp2.1/firstASP.pdb
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.RazorAssemblyInfo.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.RazorAssemblyInfo.cs
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.RazorTargetAssemblyInfo.cache
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.dll
+/Users/ricardorivera/cSharp/firstASP/obj/Debug/netcoreapp2.1/firstASP.pdb
